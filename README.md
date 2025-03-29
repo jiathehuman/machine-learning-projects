@@ -1,5 +1,5 @@
 # 🤖 Machine Learning
-This directory contains all of my machine learning projects.
+This directory contains some of my machine learning projects.
 
 ## 💸 1. Predicting Default of Credit Cards 
 The purpose of this project is to find the best Machine Learning (ML) model for the classification task of determining whether a customer will default on the payment of credit card. The dataset used, named 'Default of Credit Card Clients' is acquired from the UC Irvine Machine Learning Repository.
