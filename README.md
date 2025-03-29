@@ -1,7 +1,7 @@
 # 🤖 Machine Learning
 This directory contains all of my machine learning projects.
 
-## 1. Predicting Default of Credit Cards 💸
+## 💸 1. Predicting Default of Credit Cards 
 The purpose of this project is to find the best Machine Learning (ML) model for the classification task of determining whether a customer will default on the payment of credit card. The dataset used, named 'Default of Credit Card Clients' is acquired from the UC Irvine Machine Learning Repository.
 
 ### This project includes
@@ -13,7 +13,7 @@ The purpose of this project is to find the best Machine Learning (ML) model for 
 
 This project is done in fulfilment of CM3015 (Machine Learning and Neural Networks) midterm coursework.
 
-## 2. Predicting Car Prices with Linear Regression 🚗
+## 🚗 2. Predicting Car Prices with Linear Regression 
 This project focuses on price anaysis of new and used cars. This project is motivated by the assymetry of information within the used car market, where prices of cars are not immediately transparent to consumers. This project aims to create a linear regression model that can accurately predict prices of used cars. An accurate model can objectively determine a car's price based on its attributes, and provide buyers with a baseline of how much they should actually pay for a used car.
 
 ### This project includes
