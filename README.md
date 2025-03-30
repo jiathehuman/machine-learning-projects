@@ -26,3 +26,14 @@ This is a project done in fulfilment of CM3005 Data Science module. This project
 - Feature Engineering
 - Regularisation
 - Evaluation of models
+
+## 🌹 3. Romance versus Horror Films - Sentiment Analysis and Exploratory Data Analysis
+This is a project done in fulfilment of CM2015 Programming with Data module. The project aims to compare the horror and romance movie industries using data analysis - to identify differences between the two genres and quantify this disparity using three main parameters - box-office numbers (budget and revenue), audience ratings and the sentiments of scripts.
+
+### This project includes
+- Web scrapping of horror and romance film scripts with Scrapy's Spider module
+- Accessing TMDB and Rotten Tomatoes APIs
+- Data wrangling and cleaning
+- Text normalisation 
+- Sentiment Analysis
+- Visualisation with Seaborn library
