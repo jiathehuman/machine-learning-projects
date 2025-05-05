@@ -27,7 +27,10 @@ This is a project done in fulfilment of CM3005 Data Science module. This project
 - Regularisation
 - Evaluation of models
 
-## 🌹 3. Romance versus Horror Films - Sentiment Analysis and Exploratory Data Analysis
+## 🌲 3. Dockerised Random Forest Classifier
+This project demonstrates how to build a Random Forest machine learning model, expose it via a Flask-based API, and deploy it using Docker containers. Access through the dockerised_rf directory.
+
+## 🌹 4. Romance versus Horror Films - Sentiment Analysis and Exploratory Data Analysis
 This is a project done in fulfilment of CM2015 Programming with Data module. The project aims to compare the horror and romance movie industries using data analysis - to identify differences between the two genres and quantify this disparity using three main parameters - box-office numbers (budget and revenue), audience ratings and the sentiments of scripts.
 
 #### This project includes
